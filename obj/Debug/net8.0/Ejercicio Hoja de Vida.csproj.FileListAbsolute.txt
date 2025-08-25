@@ -1,0 +1,33 @@
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\bin\Debug\net8.0\appsettings.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\bin\Debug\net8.0\Ejercicio Hoja de Vida.staticwebassets.runtime.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\bin\Debug\net8.0\Ejercicio Hoja de Vida.staticwebassets.endpoints.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\bin\Debug\net8.0\Ejercicio Hoja de Vida.exe
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\bin\Debug\net8.0\Ejercicio Hoja de Vida.deps.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\bin\Debug\net8.0\Ejercicio Hoja de Vida.runtimeconfig.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\bin\Debug\net8.0\Ejercicio Hoja de Vida.dll
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\bin\Debug\net8.0\Ejercicio Hoja de Vida.pdb
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\Ejercicio Hoja de Vida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\Ejercicio Hoja de Vida.AssemblyInfoInputs.cache
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\Ejercicio Hoja de Vida.AssemblyInfo.cs
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\Ejercicio Hoja de Vida.csproj.CoreCompileInputs.cache
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\Ejercicio Hoja de Vida.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\Ejercicio Hoja de Vida.RazorAssemblyInfo.cache
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\Ejercicio Hoja de Vida.RazorAssemblyInfo.cs
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\scopedcss\bundle\Ejercicio Hoja de Vida.styles.css
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\scopedcss\projectbundle\Ejercicio Hoja de Vida.bundle.scp.css
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\Ejercicio Hoja de Vida.dll
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\refint\Ejercicio Hoja de Vida.dll
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\Ejercicio Hoja de Vida.pdb
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\Ejercicio Hoja de Vida.genruntimeconfig.cache
+C:\Users\leidy\OneDrive\Escritorio\HOJA DE VIDA\Ejercicio Hoja de Vida\obj\Debug\net8.0\ref\Ejercicio Hoja de Vida.dll
